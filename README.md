@@ -16,7 +16,7 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vemula-karthik-4a3309363)
-[![GitHub](https://img.shields.io/badge/GitHub-karthikvemula23-black?style=for-the-badge\&logo=github)](https://github.com/karthikvemula23)
+[![Gmail](https://img.shields.io/badge/Gmail-thekarthikvemula%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekarthikvemula@gmail.com)
 
 </div>
 
