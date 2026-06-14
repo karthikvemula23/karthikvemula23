@@ -25,7 +25,7 @@
 ## ⚡ About Me
 
 ```yaml
-name: Karthik
+name: Vemula Karthik
 education: Computer Science Engineering
 role: Student Developer
 
