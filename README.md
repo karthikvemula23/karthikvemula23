@@ -1,9 +1,8 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF00&center=true&vCenter=true&width=1100&lines=%3E+Hey%2C+I'm+Karthik;%3E+Android+Developer;%3E+MERN+Stack+Developer;%3E+Open+Source+Contributor;%3E+Building+Practical+Applications;%3E+Always+Learning+Something+New;%3E+Welcome+to+my+GitHub+Profile" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&&pause=3000&color=00FF00&center=true&vCenter=true&width=1100&cursor=false&lines=%3E+Hey%2C+I%27m+Karthik+%E2%96%88;%3E+Welcome+to+my+GitHub+Profile;%3E+MERN+Stack+Developer+%E2%96%88;%3E+Android+Developer+%E2%96%88;%3E+Open+Source+Contributor+%E2%96%88;%3E+Building+Useful+Projects+%E2%96%88" />
 
 <p>&nbsp;</p>
-
 <img src="./assets/chill-mario.gif" height="350">
 
 
@@ -74,6 +73,6 @@ goal:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Thanks+for+visiting+my+profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=3000&color=00FF00&center=true&vCenter=true&width=1100&cursor=false&lines=%3E+Thanks+for+visiting+my+profile!" />
 
 </div>
