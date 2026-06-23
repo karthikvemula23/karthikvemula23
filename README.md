@@ -1,10 +1,11 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FF00&center=true&vCenter=true&width=1100&lines=%3E+Hey%2C+I'm+Karthik;%3E+Android+Developer;%3E+MERN+Stack+Developer;%3E+Open+Source+Contributor;%3E+Building+Practical+Applications;%3E+Always+Learning+Something+New;%3E+Welcome+to+my+GitHub+Profile" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Practical+Applications;Android+Development;MERN+Stack+Development;Open+Source+Contributor;Always+Learning+Something+New" />
+<p>&nbsp;</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Karthik&fontSize=65&fontColor=ffffff&animation=twinkling&color=0:0D1117,25:1F6FEB,50:58A6FF,75:7C3AED,100:A855F7" />
 <img src="./assets/chill-mario.gif" height="350">
+
 
 ```diff
 + Android Developer • MERN Stack Developer • Open Source Contributor
@@ -12,13 +13,11 @@
 + and continuously learning through projects and open-source contributions.
 ```
 
+![CSE Student](https://img.shields.io/badge/CSE-Student-00FF00?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-00FF00?style=for-the-badge)
 
-
-![CSE Student](https://img.shields.io/badge/CSE-Student-1F6FEB?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vemula-karthik-4a3309363)
-[![Gmail](https://img.shields.io/badge/Gmail-thekarthikvemula%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekarthikvemula@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vemula-karthik-4a3309363)
+[![Gmail](https://img.shields.io/badge/Gmail-thekarthikvemula%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:thekarthikvemula@gmail.com)
 
 </div>
 
@@ -50,7 +49,7 @@ currently_learning:
   - Full Stack Development
 
 goal:
-  - Become a Skilled Software Engineer
+  - Build impactful software and contribute to open source
 ```
 
 ## 📌 Featured Projects
@@ -73,13 +72,8 @@ goal:
 
 ---
 
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+Thanks+for+visiting+my+profile!" />
 
-
-
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
-
-
+</div>
