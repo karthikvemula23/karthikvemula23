@@ -2,11 +2,10 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=3000&color=00FF00&center=true&vCenter=true&width=1100&cursor=false&lines=%3E+Hey%2C+I%27m+Karthik+%E2%96%88;%3E+Welcome+to+my+GitHub+Profile+%E2%96%88" />
 <p>&nbsp;</p>
-<img src="./assets/chill-mario.gif" height="350">
-
+<img src="./assets/chill-mario.gif" height="450">
 
 ```diff
-+ Android Developer • MERN Stack Developer • Open Source Contributor
++ MERN Stack Developer • Android Developer • Open Source Contributor
 + Building practical applications, solving real-world problems,
 + and continuously learning through projects and open-source contributions.
 ```
