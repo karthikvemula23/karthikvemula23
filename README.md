@@ -63,7 +63,7 @@ goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,firebase,git,github,vscode,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,tailwind,vite,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio&theme=dark" />
 
 </div>
 
